@@ -1,9 +1,10 @@
-import Image from "next/image";
+import { NavigationMenuDemo } from "@/blocks/navbar";
 
 export default function Home() {
   return (
     <>
-      <h1 className="text-center">Hello World</h1>
+      <NavigationMenuDemo />
+      
     </>
   );
 }
