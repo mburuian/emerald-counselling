@@ -56,7 +56,7 @@ const components: { title: string; href: string; description: string }[] = [
 
 export function NavigationMenuDemo() {
   return (
-    <div className="flex flex-row justify-between items-center p-5">
+    <div className="flex flex-row justify-between items-center p-5 shadow-sm">
 
         <div className="flex flex-row gap-2 justify-center items-center">
         <Image 
@@ -129,7 +129,7 @@ export function NavigationMenuDemo() {
         </NavigationMenu>
 
         <div>
-        <Button variant="outline">Search Programs</Button>
+        <Button variant="outline">Requets a quota.</Button>
         </div>
     </div>
     
