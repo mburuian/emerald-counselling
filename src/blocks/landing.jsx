@@ -17,7 +17,7 @@ export default function Landing(){
                 </div>
                 <div className='w-3/6 ' id='container1'>
                     <div className='container2 p-3 flex flex-col items-end justify-end'>
-                        <div className='container3 p-3 flex flex-col items-end justify-end'>
+                        <div className='glassmorphism p-3 flex flex-col items-end justify-end'>
                             <p className='nunito text-end'>Discover the transformative power of tailored counselling services designed to meet your unique needs. Emerald Counselling specializes in individual, group, marital, and family support, ensuring that every session is focused on your personal journey toward healing and growth. Our compassionate professionals are here to provide a safe space where you can express your thoughts and feelings freely. </p>
                             <br />
                             <Button/>

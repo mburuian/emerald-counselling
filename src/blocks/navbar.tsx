@@ -59,12 +59,15 @@ export function NavigationMenuDemo() {
     <div className="flex flex-row justify-between items-center p-5 shadow-sm">
 
         <div className="flex flex-row gap-2 justify-center items-center">
-        <Image 
+
+          <Image 
             src="/images/logo.svg" 
             alt="Logo" 
             width={100} 
             height={100} 
           />
+
+
         </div>
 
         <NavigationMenu>

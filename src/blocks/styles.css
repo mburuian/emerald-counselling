@@ -23,5 +23,45 @@
     border-radius: 20px;
     background-color: rgba(255, 255, 255, 0.3); /* 10% opacity */
     backdrop-filter: blur(80px);
-    
+}
+.container4{
+    background-color:white;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.5); /* 10% opacity */
+    backdrop-filter: blur(80px);
+}
+.solutions{
+    padding: 10px;
+    border-radius: 25px;
+    border: 1 solid black;
+    width: 180px;
+}
+.individual-counselling{
+    background-image: url(/images/miscs.webp);
+    background-size: cover;
+    border-radius: 20px;
+    height: 85%;
+    width: 50%;
+}
+.marital-counselling{
+    background-image: url(/images/misc3.jpeg);
+    background-size: cover;
+    border-radius: 20px;
+    height: 65%;
+    width: 100%;
+}
+.glassmorphism {
+    background: rgba(255, 255, 255, 0.2); /* Transparent white */
+    border-radius: 16px;
+    backdrop-filter: blur(10px); /* Blurring effect */
+    -webkit-backdrop-filter: blur(10px); /* Safari support */
+    border: 1px solid rgba(255, 255, 255, 0.3); /* Slight border */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    padding: 20px;
+    color: rgb(255, 255, 255);
+}
+.empower{
+    width: 50%;
+    height: 70%;
+    border-radius: 20px;
 }
