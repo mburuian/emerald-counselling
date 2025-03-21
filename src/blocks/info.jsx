@@ -7,7 +7,7 @@ export default function Info(){
         <>
             
 
-            <div className="flex flex-row w-full p-7 h-screen">
+            <div className="flex flex-row w-full p-10 h-screen">
                 <div className="w-2/6">
                     <p className="nunito font-bold text-5xl">Discover how our compassionate counselling can change your life for the better. <span className="text-blue-500">Affordable</span>, <span className="text-blue-500">Accsessible</span>, and <span className="text-blue-500">Effective support</span></p>
                     <br />

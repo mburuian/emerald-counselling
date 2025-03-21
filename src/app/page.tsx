@@ -4,6 +4,7 @@ import '../blocks/styles.css'
 import Landing from '@/blocks/landing'
 import Info from '@/blocks/info'
 import Info2 from '@/blocks/info2'
+import Services from "@/blocks/services";
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <br />
       <Info/>
       <Info2/>
+      <Services/>
     </>
   );
 }
