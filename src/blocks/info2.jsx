@@ -94,8 +94,12 @@ export default function Info2(){
                         
 
                 </div>
+                
 
             </div>
+            <div className="p-7">
+                    <p className="nunito">"Emerald Counselling is committed to providing personalized support for your mental well-being. Our compassionate professionals offer individual, group, marital, and family counselling services tailored to your unique needs. With a focus on empowerment and healing, we create a safe space where you can navigate challenges, strengthen relationships, and achieve personal growth. Whether seeking clarity, resolving conflicts, or building emotional resilience, our affordable counselling options ensure accessible care for everyone. Let Emerald Counselling be your partner in the journey toward self-discovery and a more fulfilling life."</p>
+                </div>
 
         </div>
             

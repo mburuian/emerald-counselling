@@ -75,3 +75,32 @@
     height: 100%;
     border-radius: 10px;
 }
+.glassmorphism2 {
+    background: rgba(116, 116, 116, 0.2); /* Transparent white */
+    border-radius: 36px;
+    backdrop-filter: blur(10px); /* Blurring effect */
+    -webkit-backdrop-filter: blur(10px); /* Safari support */
+    border: 1px solid rgba(255, 255, 255, 0.3); /* Slight border */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    height: 90%;
+}
+.container6{
+    background-image: url(/images/sesion2.jpeg);
+    background-size: cover;
+    height: 80vh;
+    border-radius: 20px;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.empower4{
+    width: 100%;
+    height: 70%;
+    border-radius: 20px;
+    margin: 10px;
+}
+  
