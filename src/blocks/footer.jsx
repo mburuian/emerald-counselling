@@ -8,7 +8,7 @@ export default function Footer() {
 
   return (
     <>
-      <div className="flex flex-row bg-black h-screen p-5 justify-center items-center">
+      <div className="flex flex-row bg-black contacts p-5 justify-center items-center">
         {/* Left Section */}
         <div className="flex flex-col w-2/4 p-5">
           <p className="text-5xl nunito font-bold text-white">Emerald Counselling.</p>
