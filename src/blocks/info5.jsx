@@ -7,7 +7,7 @@ export default function info5(){
     <>
         <div className="flex flex-row justify-center h-screen p-10 w-full">
             <div className="flex flex-col w-2/6">
-                <p className="nunito text-5xl font-bold ">Compassionate <span className="text-blue-500">Counselling Services</span> for Every Need</p>
+                <p className="nunito text-5xl font-bold ">Compassionate <span className="text-[#0400ff] ">Counselling Services</span> for Every Need</p>
                 <div className="h-3"></div>
                 <p className="text-xl nunito font-bold">Discover Your Path to Wellness with Emerald Counselling</p>
                 <div className="h-3"></div>

@@ -9,7 +9,7 @@ export default function Landing(){
         <div id="background">
             <div id="main" className='flex flex-row justify-between items-center w-full p-5'>
                 <div className='flex flex-col p-3 w-3/6'>
-                    <p className='text-5xl font-bold nunito'>Transforming <span className='text-blue-500'>Lives</span> through compassionate support.</p>
+                    <p className='text-5xl font-bold nunito'>Transforming <span className='text-[#0400ff] '>Lives</span> through compassionate support.</p>
                     <br />
                     <p className='nunito'>Discover how our compassionate counselling can change your life or better, Experience the tranormative  journey o mental wellness with emerald counselling ,where we provide personalised sessions tailored to your unque nedds  whether you seek individual sguidance ,group support, marital improvement or amily solutions , our dedicated proessionals are here to acilitate Meaningul conversations and healing</p>
                     <br />

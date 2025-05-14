@@ -57,13 +57,13 @@ export default function Services() {
             <div className="flex justify-start px-5 gap-4 w-1/6">
                 <button 
                     onClick={handlePrev}
-                    className="bg-blue-500 hover:bg-blue-600 text-white p-2 rounded-full flex items-center justify-center"
+                    className="bg-[#0400ff] hover:bg-blue-600 text-white p-2 rounded-full flex items-center justify-center"
                 >
                     <ChevronLeft size={24} />
                 </button>
                 <button 
                     onClick={handleNext}
-                    className="bg-blue-500 hover:bg-blue-600 text-white p-2 rounded-full flex items-center justify-center"
+                    className="bg-[#0400ff]  hover:bg-blue-600 text-white p-2 rounded-full flex items-center justify-center"
                 >
                     <ChevronRight size={24} />
                 </button>

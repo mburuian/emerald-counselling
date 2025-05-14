@@ -25,7 +25,7 @@ export default function Info2(){
 
                 </div>
                 <div className="flex flex-row justify-between p-7 rounded-2xl">
-                    <div className="p-7 w-4/6 bg-blue-500 rounded-2xl flex flex-row gap-3 h-fit">
+                    <div className="p-7 w-4/6 bg-[#0400ff]  rounded-2xl flex flex-row gap-3 h-fit">
                     <div className="flex flex-col justify-center items-center h-fit">
                             <div className="relative w-full max-w-xs">
                             <Carousel className="w-full">
@@ -88,7 +88,7 @@ export default function Info2(){
 
                 </div>
                 <div className="p-5 w-2/6">
-                        <p className="text-4xl nunito font-bold">Empowering You with Compassionate Care at <span className="text-blue-500">Emerald Counselling.</span></p>
+                        <p className="text-4xl nunito font-bold">Empowering You with Compassionate Care at <span className="text-[#0400ff] ">Emerald Counselling.</span></p>
                         <br />
                         <p className="nunito">At Emerald Counselling, we believe that every individual deserves support tailored to their journey. Our caring professionals are dedicated to facilitating change and improvement in your life through personalized counselling, ensuring you feel understood and empowered every step of the way.</p>
                         
