@@ -21,20 +21,16 @@ export default function Footer() {
             {/* Phone */}
             <div className="flex items-center gap-2">
               <FontAwesomeIcon icon={faPhone} className="text-white text-xl" />
-              <p className="text-white nunito">+1 23 456 789</p>
+              <p className="text-white nunito">0716565814</p>
             </div>
             
             {/* Email */}
             <div className="flex items-center gap-2">
               <FontAwesomeIcon icon={faEnvelope} className="text-white text-xl" />
-              <p className="text-white nunito">support@emeraldcounselling.ai</p>
+              <p className="text-white nunito">emeraldcounselling722@gmail.com</p>
             </div>
             
-            {/* Address */}
-            <div className="flex items-center gap-2">
-              <FontAwesomeIcon icon={faMapPin} className="text-white text-xl" />
-              <p className="text-white nunito">123 Healing Way, CO, USA</p>
-            </div>
+           
           </div>
         </div>
 

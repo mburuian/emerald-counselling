@@ -4,28 +4,18 @@ import { ChevronDown, ChevronUp } from 'lucide-react';
 const faqs = [
   {
     question: 'How do I schedule a counselling session?',
-    answer: 'We offer individual, group, marital, and family counselling sessions tailored to your unique needs.'
+     answer: 'You can schedule an appointment by contacting us through our website or giving us a call.'
   },
   {
     question: 'What types of counselling services do you offer?',
-    answer: 'You can schedule an appointment by contacting us through our website or giving us a call.'
+
+     answer: 'We offer individual, group, marital, and family counselling sessions tailored to your unique needs.'
   },
   {
     question: 'Are your counselling services confidential?',
     answer: 'Yes, all our counselling sessions are strictly confidential, ensuring your privacy and trust.'
   },
-  {
-    question: 'What should I expect in my first counselling session?',
-    answer: 'We offer affordable counselling services. Please contact us for detailed pricing information.'
-  },
-  {
-    question: 'How can I prepare for my counselling sessions?',
-    answer: 'We offer affordable counselling services. Please contact us for detailed pricing information.'
-  },
-  {
-    question: 'Can I change my session schedule if needed?',
-    answer: 'We offer affordable counselling services. Please contact us for detailed pricing information.'
-  }
+  
 ];
 
 export default function Faq() {
